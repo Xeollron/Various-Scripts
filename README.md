@@ -1,1 +1,1 @@
-#Varsious-Scripts
+#Various-Scripts
